@@ -14,8 +14,4 @@
   },
   "author": "Stebbib",
   "license": "ISC"
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/stebbib/node-dagskammtur.git"
-  }
 }
