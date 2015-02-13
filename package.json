@@ -1,0 +1,18 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dagskammtur.js",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "htmltidy": "0.0.6",
+    "request": "^2.53.0",
+    "x-ray": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
