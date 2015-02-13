@@ -1,13 +1,12 @@
 {
-  "name": "webscraping",
+  "name": "node-dagskammtur",
   "version": "1.0.0",
   "description": "",
-  "main": "dagskammtur.js",
+  "main": "index.js",
   "dependencies": {
     "cheerio": "^0.18.0",
     "htmltidy": "0.0.6",
-    "request": "^2.53.0",
-    "x-ray": "^1.0.3"
+    "request": "^2.53.0"
   },
   "devDependencies": {},
   "scripts": {
