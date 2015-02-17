@@ -6,7 +6,8 @@
   "dependencies": {
     "cheerio": "^0.18.0",
     "htmltidy": "0.0.6",
-    "request": "^2.53.0"
+    "request": "^2.53.0",
+    "windows-1252": "^0.1.2"
   },
   "devDependencies": {},
   "scripts": {
